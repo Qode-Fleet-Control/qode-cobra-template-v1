@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Qode-Platform/qode-cobra-template-v1/cmd"
+	"github.com/Qode-Fleet-Control/qode-cobra-template-v1/cmd"
 )
 
 func main() {

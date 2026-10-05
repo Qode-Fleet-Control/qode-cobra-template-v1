@@ -1,4 +1,4 @@
-module github.com/Qode-Platform/qode-cobra-template-v1
+module github.com/Qode-Fleet-Control/qode-cobra-template-v1
 
 go 1.23
 
